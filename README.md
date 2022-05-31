@@ -24,7 +24,7 @@ Body:
         "owner_id": 12345,
         "subscription_id": 12345,
         "updates": {
-        "title": "TestActivity"        
+            "title": "TestActivity"        
         }
     }
 
